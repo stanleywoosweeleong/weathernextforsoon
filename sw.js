@@ -46,7 +46,7 @@
 // / Dense fog in the morning / Kabus tebal waktu pagi). Clean internal
 // namespace weathernextforsoon + no-location-name AI prompt unchanged.
 
-const CACHE_VERSION = 'wnext-weathernextforsoon-202606062232';
+const CACHE_VERSION = 'wnext-weathernextforsoon-202606090130';
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 const WEATHER_CACHE = `${CACHE_VERSION}-weather`;
